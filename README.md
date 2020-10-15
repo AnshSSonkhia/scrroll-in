@@ -38,7 +38,7 @@ The popup sheet is also handled by `popup.js` by dynamically changing the UI fol
 ## Features 🚀
 
 - You can **save** the scroll position of the page and then revisit the page at any time to continue where you left. 
-- Also, extension allows you to save **multiple scrolls** from the page. 
+- Also, this extension allows you to save **multiple scrolls** from the page. 
 - You can **fetch** the last saved scroll.
 - If you dont want a scroll you can **delete** it.
 - Extension allows you to see all the saved scrolls arranged in the newly first order where you can **delete** any specific scroll or **clear all** the scrolls at once.
